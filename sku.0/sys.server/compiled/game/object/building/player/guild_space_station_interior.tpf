@@ -1,0 +1,15 @@
+// Guild Space Station Interior - boarding instance shell
+
+@base object/building/base/base_player_building.iff
+
+@class building_object_template 1
+
+@class tangible_object_template 1
+
+@class object_template 3
+
+sharedTemplate = "object/building/player/shared_player_guildhall_generic_style_01.iff"
+
+scripts = +["structure.house_container_lock", "space.structure.guild_space_station_interior"]
+
+persistByDefault = false

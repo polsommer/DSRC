@@ -1,0 +1,51 @@
+color	elemental_type	damage_amount	comments
+i	"e(none=0,cold=64,heat=32,acid=128,electric=256)[none]"	f	c
+0	heat	0.02	How to use this table
+1	heat	0.02	There are only 32 colors. 0 - 31.
+2	acid	0.02	Creating a row 32 will not get you a new bug free saber.
+3	acid	0.02	"Instead, you should reuse an existing elemental type, and use the master item table to create a new saber using existing elemental, color and damage_amount."
+4	cold	0.02	The elemental type dictates the default color of the saber and the saber swoosh (which is based off the default color).
+5	cold	0.02	"Heat = red, acid = green, etc."
+6	cold	0.02	"If there is not an existing elemental type with the correct damage amount, you need to have engineering figure this system out or pick an elemental type with the correct damage amount that will work."
+7	acid	0.02	
+8	electric	0.02	
+9	electric	0.02	
+10	heat	0.02	
+11	heat	0.02	
+12	heat	0.05	Allya's Exile
+13	heat	0.04	Kun's Blood
+14	acid	0.06	Bondara's Folly
+15	acid	0.04	Ulric's Redemption
+16	electric	0.05	Bane's Heart
+17	electric	0.04	Gallia's Intuition
+18	electric	0.04	Prowess of Plo Koon
+19	acid	0.06	B'nar's Sacrifice
+20	cold	0.06	Windu's Guile
+21	cold	0.04	Mundi's Response
+22	cold	0.04	Strength of Luminaria
+23	cold	0.04	Baas's Wisdom
+24	electric	0.04	Quintessence of the Force
+25	acid	0.04	Dawn of Dagobah
+26	electric	0.04	Horn's Future
+27	acid	0.04	Allya's Redemption
+28	cold	0.06	Kenobi's Legacy
+29	heat	0.06	Sunrider's Destiny
+30	acid	0.04	Kit's Ferocity
+32	heat	0.06	Cunning of Tyranus
+33	heat	0.05	Maul's Vengeance
+34	acid	0.04	Qui-gon's Devotion
+35	cold	0.01	unused
+36	cold	0.01	unused
+37	cold	0.01	unused
+38	cold	0.01	unused
+39	cold	0.01	unused
+40	cold	0.01	unused
+41	cold	0.01	unused
+42	cold	0.01	unused
+43	cold	0.01	unused
+44	cold	0.01	unused
+45	cold	0.01	unused
+46	cold	0.01	unused
+47	cold	0.01	unused
+48	cold	0.01	unused
+

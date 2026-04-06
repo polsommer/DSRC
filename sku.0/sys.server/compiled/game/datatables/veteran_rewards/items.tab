@@ -1,0 +1,103 @@
+id	Description	Object Template	Money	Once Per Account	Once Per Account Feature Id	Once Per Character	Can Trade In	Comment
+s	s	s	i	b	b[0]	b	b[0]	c
+dataterminal1	veteran_new:dataterminal1	object/tangible/veteran_reward/data_terminal_s1.iff	0	0		0		Once Per Account Feature Id specifies that the reward item is granted by a feature id but that feature id
+dataterminal2	veteran_new:dataterminal2	object/tangible/veteran_reward/data_terminal_s2.iff	0	0		0		will only be set/granted once and it will have a value of 1 when set/granted which means in effect that an
+dataterminal3	veteran_new:dataterminal3	object/tangible/veteran_reward/data_terminal_s3.iff	0	0		0		account will only ever be granted 1 such reward item
+dataterminal4	veteran_new:dataterminal4	object/tangible/veteran_reward/data_terminal_s4.iff	0	0		0		
+techconsole_a	veteran_new:techconsole_a	object/tangible/veteran_reward/frn_tech_console_sectional_a.iff	0	0		0		setting the Once Per Account Feature Id value to 1 will cause an in-game popup message letting the
+techconsole_b	veteran_new:techconsole_b	object/tangible/veteran_reward/frn_tech_console_sectional_b.iff	0	0		0		player know that the reward item can only be claimed by 1 character on the account so that he does
+techconsole_c	veteran_new:techconsole_c	object/tangible/veteran_reward/frn_tech_console_sectional_c.iff	0	0		0		not accidentally claim it using an unintended character
+techconsole_d	veteran_new:techconsole_d	object/tangible/veteran_reward/frn_tech_console_sectional_d.iff	0	0		0		
+mini_jabba	veteran_new:mini_jabba	object/tangible/veteran_reward/frn_vet_jabba_toy.iff	0	0		0		Can Trade In means the item can be destroyed and the account re-granted the account feature id
+mini_stormtrooper	veteran_new:mini_stormtrooper	object/tangible/veteran_reward/frn_vet_stormtrooper_toy.iff	0	0		0		so that the item can be claimed again by a different (or same) character on the account
+mini_r2	veteran_new:mini_r2	object/tangible/veteran_reward/frn_vet_r2_toy.iff	0	0		0		
+mini_protocoldroid	veteran_new:mini_protocoldroid	object/tangible/veteran_reward/frn_vet_protocol_droid_toy.iff	0	0		0		
+mini_xwing	veteran_new:mini_xwing	object/tangible/veteran_reward/frn_vet_x_wing_toy.iff	0	0		0		
+mini_tiefighter	veteran_new:mini_tiefighter	object/tangible/veteran_reward/frn_vet_tie_fighter_toy.iff	0	0		0		
+falconcouch	veteran_new:falconcouch	object/tangible/veteran_reward/frn_couch_falcon_corner_s01.iff	0	0		0		
+falconchair	veteran_new:falconchair	object/tangible/veteran_reward/frn_couch_falcon_section_s01.iff	0	0		0		
+poweredharvester	veteran_new:poweredharvester	object/tangible/veteran_reward/harvester.iff	0	1		0		
+resourcecrate	veteran_new:resourcecrate	object/tangible/veteran_reward/resource.iff	0	1		0		
+sorosuub	veteran_new:sorosuub	object/tangible/space/veteran_reward/sorosuub_space_yacht_deed.iff	0	0		1		
+varactyl	veteran_new:varactyl	object/tangible/deed/ep3_pet_deed/varactyl_deed.iff	0	1		0		
+barc_speeder	veteran_new:barc_speeder	object/tangible/deed/vehicle_deed/barc_speeder_deed.iff	0	1		0		
+holo_lambda	veteran_new:holo_lambda	object/tangible/veteran_reward/frn_vet_holo_lambda.iff	0	0		1		
+holo_corvette	veteran_new:holo_corvette	object/tangible/veteran_reward/frn_vet_holo_corvette.iff	0	0		1		
+houseplant	veteran_new:houseplant	object/tangible/veteran_reward/frn_vet_houseplant.iff	0	0		0		
+holo_impguard	veteran_new:impguard	object/tangible/veteran_reward/frn_vet_holo_imperial_guard.iff	0	0		0		
+mini_cupa	veteran_new:cupa	object/tangible/veteran_reward/frn_vet_cu_pa_toy.iff	0	0		0		
+holo_starfighter	veteran_new:holo_starfighter	object/tangible/veteran_reward/frn_vet_holo_starfighter.iff	0	0		0		
+holo_sandcrawler	veteran_new:holo_sandcrawler	object/tangible/veteran_reward/frn_vet_holo_sandcrawler.iff	0	0		0		
+holo_deathstar	veteran_new:holo_deathstar	object/tangible/veteran_reward/frn_vet_holo_deathstar.iff	0	0		0		
+holo_leia	veteran_new:holo_leia	object/tangible/veteran_reward/frn_vet_holo_leia.iff	0	0		0		
+mini_dewback	veteran_new:mini_dewback	object/tangible/veteran_reward/frn_vet_dewback_toy.iff	0	0		0		
+holo_yoda	veteran_new:holo_yoda	object/tangible/veteran_reward/frn_vet_holo_yoda.iff	0	0		0		
+emp_chair	veteran_new:emp_chair	object/tangible/veteran_reward/frn_vet_emp_chair.iff	0	0		0		
+holo_jawa	veteran_new:holo_jawa	object/tangible/veteran_reward/frn_vet_holo_jawa.iff	0	0		0		
+mini_rancor	veteran_new:mini_rancor	object/tangible/veteran_reward/frn_vet_rancor_toy.iff	0	0		0		
+mini_boba	veteran_new:mini_boba	object/tangible/veteran_reward/frn_vet_boba_toy.iff	0	0		0		
+mini_atat	veteran_new:mini_atat	object/tangible/veteran_reward/frn_vet_atat_toy.iff	0	0		0		
+rug_imperial	veteran_new:rug_imperial	object/tangible/veteran_reward/frn_vet_rug_imperial.iff	0	1		0		
+rug_rebel	veteran_new:rug_rebel	object/tangible/veteran_reward/frn_vet_rug_rebel.iff	0	1		0		
+fireplace	veteran_new:fireplace	object/tangible/veteran_reward/frn_vet_fireplace.iff	0	0		0		
+display_stand	veteran_new:display_stand	object/tangible/veteran_reward/frn_vet_display_stand.iff	0	0		0		
+wookiee_house	veteran_new:wookiee_house	object/tangible/veteran_reward/one_year_anniversary/painting_10.iff	0	0		1		
+painting_11	veteran_new:painting_11	object/tangible/veteran_reward/frn_vet_painting_s011.iff	0	0		1		
+tow_retail_reward	veteran_new:retail_reward	object/tangible/veteran_reward/tow_retail_reward.iff	0	1		0		
+transport_skiff	veteran_new:transport_skiff	object/tangible/veteran_reward/vehicle_transport_skiff.iff	0	1		0		
+instant_travel	veteran_new:instant_travel_terminal	object/tangible/veteran_reward/instant_travel_terminal_privateer.iff	0	0		1		
+painting_emperor	veteran_new:painting_emperor	object/tangible/furniture/decorative/vet_reward_emperor_painting.iff	0	0		1		
+painting_rebel	veteran_new:painting_rebel	object/tangible/furniture/decorative/vet_reward_rebel_painting.iff	0	0		1		
+respec_voucher	veteran_new:respec_voucher	object/tangible/veteran_reward/respec_voucher_deed.iff	0	1		0		
+storage_increase	veteran_new:structure_increase	object/tangible/veteran_reward/structure_storage_increase_deed.iff	0	0		0		
+holo_darth_vader	veteran_new:holo_darth_vader	object/tangible/veteran_reward/frn_vet_holo_darth_vader.iff	0	0		0		
+holo_luke_skywalker	veteran_new:holo_luke_skywalker	object/tangible/veteran_reward/frn_vet_holo_luke_skywalker.iff	0	0		0		
+privateer_travel	veteran_new:instant_travel_privateer_terminal	object/tangible/veteran_reward/instant_travel_terminal_privateer.iff	0	0		1		
+mini_tusken	veteran_new:mini_tusken	object/tangible/veteran_reward/frn_vet_tusken_raider_toy.iff	0	0		0		
+mini_salacious	veteran_new:mini_salacious	object/tangible/veteran_reward/frn_vet_salacious_crumb_toy.iff	0	0		0		
+pet_nightspider	veteran_new:pet_nightspider	object/tangible/veteran_reward/vr_nightspider_deed.iff	0	1		0		
+pet_mouse_droid	veteran_new:pet_mouse_droid	object/tangible/veteran_reward/vr_mouse_droid_deed.iff	0	1		0		
+pet_bearded_jax	veteran_new:pet_bearded_jax	object/tangible/veteran_reward/vr_bearded_jax_deed.iff	0	1		0		
+cybernetic_xp_chip	veteran_new:cybernetic_experience_chip	object/tangible/veteran_reward/exp_buff_item_crate.iff	0	1		0		
+walker_at_rt	veteran_new:walker_at_rt	object/tangible/veteran_reward/vehicle_walker_at_rt_camo.iff	0	1		0		
+return_painting	veteran_new:return_painting	object/tangible/veteran_reward/frn_vet_painting_april_07.iff	0	1		0		
+pet_gacklebat	veteran_new:pet_gacklebat	object/tangible/veteran_reward/vr_gacklebat_deed.iff	0	1		0		
+pet_mynock	veteran_new:pet_mynock	object/tangible/veteran_reward/vr_mynock_deed.iff	0	1		0		
+painting_anniversary_s30	veteran_new:anniversary_s30	object/tangible/veteran_reward/frn_vet_painting_anniversary_s30.iff	0	0		1		
+goggles_anniversary	veteran_new:anniversary_goggles	object/tangible/wearables/goggles/goggles_anniversary.iff	0	0		1		
+painting_summit_s02	veteran_new:painting_summit_s02	object/tangible/veteran_reward/frn_vet_painting_community_summit_s02.iff	0	0		1		
+instant_travel_royal_ship	veteran_new:instant_travel_terminal_royal_ship	object/tangible/deed/vehicle_deed/instant_travel_terminal_royal_ship_deed.iff	0	0		1		
+carbonite_gungan	veteran_new:carbonite_gungan	object/tangible/veteran_reward/frn_vet_carbonite_gungan.iff	0	0		0		
+carbonite_ugnaught	veteran_new:carbonite_ugnaught	object/tangible/veteran_reward/frn_vet_carbonite_ugnaught.iff	0	0		0		
+carbonite_geonosian	veteran_new:carbonite_geonosian	object/tangible/veteran_reward/frn_vet_carbonite_geonosian.iff	0	0		0		
+city_flag_kit	veteran_new:city_flag_kit	object/tangible/veteran_reward/city_flag_kit.iff	0	0		0		
+podracer_statue	veteran_new:podracer_statue	object/tangible/veteran_reward/frn_vet_podracer_statue.iff	0	0		0		
+st_boss_battle_droid	veteran_new:st_boss_battle_droid	st_cn_vet_reward_super_battle_droid_boss	0	0		1		
+st_boss_rebel_comm	veteran_new:st_boss_rebel_comm	st_cn_vet_reward_rebel_commando_boss	0	0		1		
+st_boss_stormtrooper	veteran_new:st_boss_stormtrooper	st_cn_vet_reward_stormtrooper_boss	0	0		1		
+buddy_token	veteran_new:buddy_token	col_buddy_token	0	1		0		
+buddy_xp_chip	veteran_new:buddy_xp_chip	item_reward_buddy_xp_chip_06_01	0	1		0		
+st_dark_jedi_boss	veteran_new:st_dark_jedi_boss	st_cn_vet_reward_dark_jedi_boss	0	0		1		
+st_nightsister_boss	veteran_new:st_nightsister_boss	st_cn_vet_reward_nightsister_boss	0	0		1		
+st_tusken_boss	veteran_new:st_tusken_boss	st_cn_vet_reward_tusken_boss	0	0		1		
+homing_beacon	veteran_new:homing_beacon	item_vet_homing_beacon_03_01	0	0		1		
+fan_gathering_08	veteran_new:galactic_gathering_08_painting	item_galactic_gathering_2008_painting_04_01	0	0		1		
+hover_chair	veteran_new:hover_chair	item_deed_hover_chair_06_01	0	1		0		
+yoda_fountain	veteran_new:yoda_fountain	item_vet_63_month_yoda_fountain	0	0		1		
+emp_statue	veteran_new:emp_statue	item_vet_63_month_palpatine_statue	0	0		1		
+jedi_temple	veteran_new:jedi_temple	item_vet_66_month_jedi_temple	0	0		0		
+jedi_temple_burning	veteran_new:jedi_temple_burning	item_vet_66_month_jedi_temple_burning	0	0		0		
+greeter_gamorrean	veteran_new:greeter_gamorrean	item_vet_reward_greeter_gamorrean	0	0		0		
+windu_statue	veteran_new:windu_statue	item_vet_reward_72month_mace_windu	0	0		0		
+maul_statue	veteran_new:maul_statue	item_vet_reward_72month_darth_maul	0	0		0		
+75month_houseplant	veteran_new:vet_75month_houseplant	item_vet_reward_75month_houseplant_02	0	0		0		
+78month_ttgm_terminal	veteran_new:vet_78month_ttgm_terminal	item_vet_reward_78month_ttgm_itt	0	0		0		
+81month_lockout_remover	veteran_new:vet_81month_lockout_remover	item_vet_reward_lockout_remover	0	0		0		
+84month_isd_console	veteran_new:vet_84month_isd_console	item_vet_reward_sd_console_01	0	0		0		
+84month_isd_console_row	veteran_new:vet_84month_isd_console_row	item_vet_reward_sd_console_02	0	0		0		
+87month_respec_reset	veteran_new:vet_87month_respec_reset	vet_reward_respec_reset	0	0		0		
+90month_resource_crate	veteran_new:vet_90month_resource_crate	vet_reward_resource_crate	0	0		0		
+item_lvl90_boost	veteran_new:item_lvl90_boost	item_lvl90_boost	0	0		1		
+item_vip_bunker	veteran_new:item_vip_bunker	item_tcg_loot_reward_series7_deed_vip_bunker	0	1		0		
+item_townstarter	veteran_new:item_townstarter	item_townstarter	0	1		0		
+vet_reward_biolinkset	veteran_new:vet_reward_biolinkset	vet_reward_biolinkset	0	0		0		

@@ -1,0 +1,24 @@
+//            Filename:     aqualish_female
+//            Directory:    object/creature/npc/base
+//
+//            Description:
+//            aqualish female
+//
+//            Notes:
+//
+//
+//            Category:                   Creature 
+//            Sub-Category:               NPC
+//            Classification:             aqualish female
+//            
+
+@base object/creature/player/aqualish.iff
+
+@class creature_object_template 2
+
+@class tangible_object_template 0
+
+@class object_template 0
+
+sharedTemplate = "object/creature/player/shared_aqualish_female.iff"
+//scale = 1.00

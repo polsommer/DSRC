@@ -1,0 +1,11 @@
+// This file ws written by the template editor @ 5:06:39 PM -  Wed Sep 11 2002
+
+@base  object/tangible/furniture/city/city_furniture.iff
+
+@class tangible_object_template 1
+
+@class object_template 3
+
+sharedTemplate = "object/tangible/tcg/shared_leia_garden.iff"
+
+scripts = ["systems.city.city_furniture"]

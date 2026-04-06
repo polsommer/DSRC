@@ -1,0 +1,12 @@
+// Guild Space Station Deed
+
+@base object/tangible/deed/base/base_deed.iff
+
+@class tangible_object_template 0
+
+@class object_template 7
+
+sharedTemplate = "object/tangible/deed/guild_deed/shared_generic_guild_deed.iff"
+
+scripts = +[
+	"item.structure_deed.guild_space_station_deed"]

@@ -1,0 +1,19 @@
+item	cash	token0	token1	token2	token3	token4	class	script	note
+s[none]	i[0]	i[0]	i[0]	i[0]	i[0]	i[0]	i[0]	s	c
+item_heroic_axkva_min_painting_01_01		1					0		
+item_heroic_tusken_painting_01_01			1				0		
+item_heroic_ig88_painting_01_01				1			0		
+item_heroic_exar_kun_painting_01_01						1	0		
+armor_infiltrator_chest_plate			2	2			0		
+armor_infiltrator_leggings		2		1			0		
+armor_infiltrator_helmet				1	2		0		
+armor_infiltrator_bicep_l		1	1	1			0		
+armor_infiltrator_bicep_r			1	1	1		0		
+armor_infiltrator_bracer_l				1	1		0		
+armor_infiltrator_bracer_r					1	1	0		
+armor_infiltrator_gloves				1	1		0		
+armor_infiltrator_boots					1	1	0		
+armor_infiltrator_belt				1	1		0		
+item_player_house_deed_jabbas_sail_barge		5	5	5	5	5	0		
+item_force_crystal_04_01		10	10			15			
+item_force_crystal_04_02				10	10	15			

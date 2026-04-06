@@ -1,0 +1,45 @@
+item	cash	token0	token1	token2	token3	token4	token5	token6	token7	token8	token9	token10	token11	token12	token13	token14	token15	token16	class	script	note
+s[none]	i[0]	i[0]	i[0]	i[0]	i[0]	i[0]	i[0]	i[0]	i[0]	i[0]	i[0]	i[0]	i[0]	i[0]	i[0]	i[0]	i[0]	i[0]	i[0]	s	c
+pgc_booster_pack																	20		0		"See library.utils for the int value of the classes. 0 is ""all"" but will only show if there are no items for the opener's class."
+pgc_booster_pack_goto																	20				
+pgc_booster_pack_comm																	20				
+pgc_starship_storage_device_01																		16			
+pgc_monitorscreen																	219				
+pgc_monitorscreen_sm																	177				
+pgc_glass_pane_01																	169				
+pgc_glass_pane_02																	169				
+pgc_jabba_chandelier																	184				
+pgc_jabba_drapes																	199				
+pgc_jabba_fancyrug																	192				
+pgc_jabba_gargoyle																	171				
+pgc_jabba_generator																	203				
+pgc_jabba_table																	224				
+pgc_jabba_tassels																	184				
+pgc_jabba_windchime																	176				
+pgc_fireplace																	269				
+pgc_decal_pgc_s01																	204				
+pgc_decal_pgc_s02																	204				
+pgc_decal_pgc_s03																	204				
+pgc_decal_pgc_s04																	204				
+pgc_decal_pgc_s05																	204				
+pgc_decal_pgc_s06																	204				
+pgc_planet_hologram_corellia																	197				
+pgc_planet_hologram_dantooine																	197				
+pgc_planet_hologram_dathomir																	197				
+pgc_planet_hologram_endor																	197				
+pgc_planet_hologram_lok																	197				
+pgc_planet_hologram_naboo																	197				
+pgc_planet_hologram_rori																	197				
+pgc_planet_hologram_talus																	197				
+pgc_planet_hologram_tatooine																	197				
+pgc_planet_hologram_yavin4																	197				
+pgc_planet_hologram_corellia_02																	162				
+pgc_planet_hologram_dantooine_02																	162				
+pgc_planet_hologram_dathomir_02																	162				
+pgc_planet_hologram_endor_02																	162				
+pgc_planet_hologram_lok_02																	162				
+pgc_planet_hologram_naboo_02																	162				
+pgc_planet_hologram_rori_02																	162				
+pgc_planet_hologram_talus_02																	162				
+pgc_planet_hologram_tatooine_02																	162				
+pgc_planet_hologram_yavin4_02																	162				

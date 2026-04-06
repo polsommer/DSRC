@@ -1,0 +1,18 @@
+// Guild Space Station - space deployable guild structure
+
+@base object/building/base/base_association_hall.iff
+
+@class building_object_template 1
+
+@class tangible_object_template 1
+
+interestRadius = 1
+
+@class object_template 4
+
+sharedTemplate = "object/static/space/spacestation/shared_neutral_spacestation_01.iff"
+
+scripts =+["space.structure.guild_space_station"]
+
+persistByDefault = true
+updateRanges[UR_far] = 180

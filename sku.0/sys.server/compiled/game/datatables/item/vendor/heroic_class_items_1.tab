@@ -1,0 +1,17 @@
+item	cash	token0	token1	token2	token3	token4	class	script	note
+s[none]	i[0]	i[0]	i[0]	i[0]	i[0]	i[0]	i[0]	s	c
+item_necklace_set_hero_01_01		2	2	2			0		"See library.utils for the int value of the classes. 0 is ""all"" but will only show if there are no items for the opener's class."
+item_bracelet_r_set_hero_01_01		2	2	2			0		"So in the case of this table only traders will see the ""all"" items."
+item_bracelet_l_set_hero_01_01		2	2	2			0		token0 is Axvia Minn
+item_ring_set_hero_01_01			2	2	2		0		token1 is Tusken
+item_band_set_hero_01_01		2			2	2	0		token2 is IG88
+item_bracelet_l_set_trader_01_01		1					0		
+item_bracelet_l_set_ent_01_01		1					0		
+item_bracelet_r_set_ent_01_01		1					0		
+item_bracelet_r_set_trader_01_01		1					0		
+item_necklace_set_ent_01_01		1					0		
+item_necklace_set_trader_01_01		1					0		
+item_band_set_ent_01_01		1					0		
+item_band_set_trader_01_01		1					0		
+item_ring_set_ent_01_01		1					0		
+item_ring_set_trader_01_01		1					0		

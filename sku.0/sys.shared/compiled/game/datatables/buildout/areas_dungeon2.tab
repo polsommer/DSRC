@@ -1,0 +1,12 @@
+area	x1	z1	x2	z2	useClipRect	clipRectX1	clipRectZ1	clipRectX2	clipRectZ2	envFlags	envFlagsExclude	useOrigin	originX	originZ	compositeX1	compositeZ1	compositeX2	compositeZ2	compositeName	isolated	allowMap	internal	allowRadarTerrain	eventRequired	requiredLoadLevel
+s	f	f	f	f	b[0]	f[0]	f[0]	f[0]	f[0]	i[0xff]	i[0x00]	b[0]	f[0]	f[0]	f[0]	f[0]	f[0]	f[0]	s	b[1]	b[1]	b[0]	b[1]	s	s
+heroic_lost_star_destroyer	-7750	5500	-6750	7000																					light
+heroic_lost_star_destroyer	-6150	5500	-5150	7000																					medium
+heroic_lost_star_destroyer	-4550	5500	-3550	7000																					medium
+heroic_lost_star_destroyer	-2950	5500	-1950	7000																					medium
+heroic_lost_star_destroyer	-1350	5500	-350	7000																					medium
+heroic_lost_star_destroyer	250	5500	1250	7000																					heavy
+heroic_lost_star_destroyer	1850	5500	2850	7000																					heavy
+heroic_lost_star_destroyer	3450	5500	4450	7000																					heavy
+heroic_lost_star_destroyer	5050	5500	6050	7000																					heavy
+heroic_lost_star_destroyer	6650	5500	7650	7000																					heavy

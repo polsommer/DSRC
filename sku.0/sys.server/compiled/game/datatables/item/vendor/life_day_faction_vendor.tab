@@ -1,0 +1,26 @@
+item	cash	token0	token1	token2	token3	token4	class	script	note
+s[none]	i[0]	i[0]	i[0]	i[0]	i[0]	i[0]	i[0]	s	c
+item_event_lifeday_monkey_cage	0	75	0	0	0	0			class 11 is actually Rebel and class 10 is actually Imperial.
+item_event_lifeday_bandolier	0	75	0	0	0	0			
+item_event_lifeday_holo_table	0	50	0	0	0	0			This vendor table is for the IMPERIAL lifeday vendor.
+item_event_lifeday_family_painting	0	50	0	0	0	0			Which means that everything on here is paid for using
+item_event_lifeday_bantha_surprise_recipe	0	50	0	0	0	0			Imperial lifeday tokens and cannot be purchased by Rebels
+item_event_lifeday_proton_chair	0	50	0	0	0	0			unless also sold by the Rebel lifeday vendor.
+item_event_lifeday_aquarium	0	25	0	0	0	0			
+item_event_lifeday_decorated_tree	0	25	0	0	0	0			
+item_event_lifeday_tree	0	25	0	0	0	0			
+item_event_lifeday_present_pile	0	25	0	0	0	0			
+item_event_lifeday_gcw_imperial_disk	0	50	0	0	0	0	10		
+item_lifeday_09_wookiee_cookie_decorative	0	10	0	0	0	0			
+item_lifeday_09_hoth_chocolate_decorative	0	10	0	0	0	0			
+item_lifeday_09_jacket_02	0	75	0	0	0	0			
+item_lifeday_09_fireplace_01	0	60	0	0	0	0			
+item_lifeday_09_fireplace_02	0	50	0	0	0	0			
+item_lifeday_09_lamp_01	0	40	0	0	0	0			
+item_lifeday_09_lamp_02	0	30	0	0	0	0			
+item_lifeday_09_painting	0	50	0	0	0	0			
+item_lifeday_costume_lifeday_monkeylizard	0	15	0	0	0	0			
+item_costume_kit_holiday	0	2	0	0	0	0			
+item_paintingnew20	0	100	0	0	0	0			
+item_player_house_deed_tree_house_01	0	100	0	0	0	0			
+Deed_yt1300_house_deed	0	150	0	0	0	0			
