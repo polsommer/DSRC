@@ -16,7 +16,7 @@
 
 @class creature_object_template 11
 gender = GE_male
-species = SP_klaatu
+species = SP_klatooinian
 
 animationMapFilename = "all_male.map"
 
